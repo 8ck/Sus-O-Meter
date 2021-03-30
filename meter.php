@@ -1,6 +1,6 @@
 <?php
     // Made by Hephaistos#0001
-    // Contact me: professor55@protonmail.com
+    // Contact me: hephaistos0@protonmail.com
 
     $randnum = rand(10, 100);
 ?>
