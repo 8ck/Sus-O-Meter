@@ -1,7 +1,4 @@
 <?php
-    // Made by Hephaistos#0001
-    // Contact me: hephaistos0@protonmail.com
-
     $randnum = rand(10, 100);
 ?>
 <!DOCTYPE html>
